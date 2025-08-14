@@ -1,0 +1,14 @@
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\bin\Debug\net8.0\Florendo_Act5-9.exe
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\bin\Debug\net8.0\Florendo_Act5-9.deps.json
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\bin\Debug\net8.0\Florendo_Act5-9.runtimeconfig.json
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\bin\Debug\net8.0\Florendo_Act5-9.dll
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\bin\Debug\net8.0\Florendo_Act5-9.pdb
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\Florendo_Act5-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\Florendo_Act5-9.AssemblyInfoInputs.cache
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\Florendo_Act5-9.AssemblyInfo.cs
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\Florendo_Act5-9.csproj.CoreCompileInputs.cache
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\Florendo_Act5-9.dll
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\refint\Florendo_Act5-9.dll
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\Florendo_Act5-9.pdb
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\Florendo_Act5-9.genruntimeconfig.cache
+C:\Users\ACER\vsource\repos\Florendo_Act5-9\Florendo_Act5-9\obj\Debug\net8.0\ref\Florendo_Act5-9.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Florendo_Act5-9/1.0.0": {
+        "runtime": {
+          "Florendo_Act5-9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Florendo_Act5-9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
